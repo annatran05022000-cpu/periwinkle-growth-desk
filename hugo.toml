@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Periwinkle Growth Desk"
+theme = "custom"
+
+[params]
+  description = "Growth marketing frameworks: funnel optimization, conversion rate improvement, and retention tactics."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
